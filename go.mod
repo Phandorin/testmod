@@ -1,3 +1,3 @@
-module github.com/phandorin/testmod
+module github.com/Phandorin/testmod
 
 go 1.12
